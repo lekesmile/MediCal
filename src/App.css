@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+.Main{
+  width: 90%;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main_Card{
+  max-width: 25%;
+  
+}
+
+.card_media{
+  height: 200px;
+}
+
+.title{
+  flex-grow: 1;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.title1{
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  
+}
+
+.root{
+  flex-grow: 1;
+}
+
+.mao{
+  color: "";
+}
+
+.lform{
+  padding: 60px;
+  width: 50%;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.idtf{
+  width: 30%;
+  display: inline-block;
+  display: flex;
+  padding: 8px;
+
+}
+.bidtf{
+  margin-left: 8px
+}
